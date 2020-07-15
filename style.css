@@ -1,0 +1,10 @@
+
+
+*{margin: 0 ;padding: 0;font-size: 35px;font-family: arial}
+
+.clac{width: 324px;margin:auto;background: #000;padding: 20px;border-radius: 8px;}
+
+.cal-disply{ color: #fff;width: 100%;height:75px;border: none;background: #124;margin-bottom: 10px;border-radius: 8px;}
+.btn{background-color:#58595b;height: 75px;width: 75px;border-radius:10px;margin:2px;text-align: center;color:#fff}
+
+  
